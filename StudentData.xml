@@ -1,0 +1,103 @@
+<questionValues>
+    
+    <values>
+        <n>14/12</n>
+        <i>4.5</i>
+        <pv>0</pv>
+        <pmt>0</pmt>
+        <fv></fv>
+        <py>1</py>
+        <cy>12</cy>
+    </values>
+    
+    <values>
+        <n>3</n>
+        <i>2.8</i>
+        <pv></pv>
+        <pmt></pmt>
+        <fv>3000</fv>
+        <py>12</py>
+        <cy>12</cy>
+    </values>
+    
+    <values>
+        <n></n>
+        <i>6.1</i>
+        <pv></pv>
+        <pmt>-270</pmt>
+        <fv>0</fv>
+        <py>26</py>
+        <cy>26</cy>
+    </values>
+    
+    <values>
+        <n>52</n>
+        <i>3.75</i>
+        <pv>-9000</pv>
+        <pmt>200</pmt>
+        <fv>-1249.79</fv>
+        <py>52</py>
+        <cy>52</cy>
+    </values>
+    
+    <values>
+        <n>32*12</n>
+        <i>3.5</i>
+        <pv>0</pv>
+        <pmt></pmt>
+        <fv></fv>
+        <py>12</py>
+        <cy>12</cy>
+    </values>
+    
+    <values>
+        <n>27*12</n>
+        <i>3.5</i>
+        <pv>0</pv>
+        <pmt></pmt>
+        <fv></fv>
+        <py>12</py>
+        <cy>12</cy>
+    </values>
+    
+    <values>
+        <n>25*26</n>
+        <i>5.5</i>
+        <pv></pv>
+        <pmt></pmt>
+        <fv>0</fv>
+        <py>26</py>
+        <cy>12</cy>
+    </values>
+    
+    <values>
+        <n>5*26</n>
+        <i>5.5</i>
+        <pv></pv>
+        <pmt></pmt>
+        <fv></fv>
+        <py>26</py>
+        <cy>2</cy>
+    </values>
+    
+    <values>
+        <n></n>
+        <i>3.1</i>
+        <pv></pv>
+        <pmt></pmt>
+        <fv>0</fv>
+        <py>26</py>
+        <cy>2</cy>
+    </values>
+    
+    <values>
+        <n>25*26</n>
+        <i>5.5</i>
+        <pv></pv>
+        <pmt></pmt>
+        <fv>0</fv>
+        <py>26</py>
+        <cy>2</cy>
+    </values>
+    
+</questionValues>
